@@ -10,20 +10,20 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 
 # What I hope to learn
 
-1. Understanding how to create impactful visualizations - work with color, identify good visulizations and limit clutter to make 
-2. Get comfortable using GitHub and develop a strong portfolio
-3. Learn how to use Tablueu and other visualization software. 
+1. Understanding how to create impactful visualizations - work with color, identify good visulizations and limit clutter to emphasize important data points. 
+2. Get comfortable using GitHub and develop a strong portfolio.
+3. Learn how to use Tableau and other visualization software. 
 
 # Portfolio - Assignments and Project
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+Redirecting to a new page called `visualizing-government-debt.md`.  
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+Redirecting to a new page called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
