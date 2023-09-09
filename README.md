@@ -5,7 +5,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 - This repository: https://github.com/pranavakadiyala/Portfolio
 
 # About me
-<img src="Pranava_Kadiyala_Potograph.jpeg" width="200"/>
+![Portfolio Picture](Pranava_Kadiyala_Potograph.jpeg)
 
 Hello! I'm a graduate student at CMU with a strong passion for leveraging Data Science for Social Good. I'm deeply motivated by the transformative power of data-driven insights in shaping effective policy. My enthusiasm lies in working with data, harnessing its potential, and crafting meaningful visualizations that drive informed policy actions.
 
