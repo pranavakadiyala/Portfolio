@@ -21,10 +21,11 @@ This second visualization shows over time change in debt-to-gdp ratio for OECD a
 
 
 Why this visualization:
-- I was interested in three major variables: time, individual Nordic OECD countries and debt-gdpt ratio. The obvious choice would have been a line graph. However, that would require a rainbow of colours for each country (and benchmarked average of other European countries). However, rainboe graphs can be dostracting and instead wanted to use color to focus on the debt-gdp ratio change over time.
-- This beeswarm graph limits the use of color by presenting the data points for each category on a gride that mimics a number line. This helps with ease 
+- I was interested in three major variables: time, individual Nordic OECD countries and debt-gdpt ratio. The obvious choice would have been a line graph. However, that would require a rainbow of colours for each country (and an additional one for the benchmarked average of other European countries). However, rainbow graphs can be distracting, more so here as the debt-gdp ratio does not increase smoothly over time, resulting in very distracting jagged lines causing high eye travel.
+- Instead, I wanted to use color to focus on the debt-gdp ratio change over time without it seeming too complex. Hence I used a diverging color pallete from red to blue. This works better than different saturations of the same color which if used would have made it difficult to spot the early data points and easily notice overtime trend. 
+- This beeswarm graph limits the use of color by presenting the data points for each category on a grid that mimics a number line. This helps for easy comparision and benchmarking. Hence, a viewer can both plot the change over time for each country but also see how this change compares to other countries. 
 
 Visualization methods:
-- color and limitting eyetravel
-- reducing redundancy
-- aligning everything according to common conventions
+- Used a single diverging color palette rather than 5 different complementary colors, thereby limiting eyetravel. This helps also focus on the important takeaway of the data visualization.
+- The visual is clean and simple - the title and axis labels are not redundant, no unnecessary gridlines and no distracting data labels. The caption/subtitle is also succint.
+- Following common conventions, the visual is aligned properly.
