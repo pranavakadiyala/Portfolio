@@ -13,3 +13,12 @@ The following visualization shows the debt to GDP percent of OECD countries in a
 This second visualization shows over time change in debt-to-gdp ratio for OECD and other select countries. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14951472"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+## Debt-GDP Ratio amongs Nordic OECD Countries
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/14969332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Different Methods of visualization
+
+Why this visualization
