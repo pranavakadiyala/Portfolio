@@ -15,10 +15,16 @@ This second visualization shows over time change in debt-to-gdp ratio for OECD a
 <div class="flourish-embed flourish-chart" data-src="visualisation/14951472"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-## Debt-GDP Ratio amongs Nordic OECD Countries
+## Debt-GDP Ratio amongst Nordic OECD Countries
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/14969332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Different Methods of visualization
 
-Why this visualization
+Why this visualization:
+- I was interested in three major variables: time, individual Nordic OECD countries and debt-gdpt ratio. The obvious choice would have been a line graph. However, that would require a rainbow of colours for each country (and benchmarked average of other European countries). However, rainboe graphs can be dostracting and instead wanted to use color to focus on the debt-gdp ratio change over time.
+- This beeswarm graph limits the use of color by presenting the data points for each category on a gride that mimics a number line. This helps with ease 
+
+Visualization methods:
+- color and limitting eyetravel
+- reducing redundancy
+- aligning everything according to common conventions
