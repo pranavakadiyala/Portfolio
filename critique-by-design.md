@@ -13,24 +13,26 @@ I am critiquing this above data visual. It is from a [article](https://www.india
 
 I follow the critiquing structure presenting by Stephen Few. I use the 0-10 scale to score the above visual across the informative and emotive parameters presenting by Mr Few.
 
-### Usefullness - 10
-The graph includes useful information in relation to the article 
+### Usefullness - 9
+The graph includes useful information on its own and defintely relevant to the audience. However, its representation is not exaclty appropriate for the claims made in the article.
 
-### Completeness - 8
-The gra
+### Completeness - 9
+The graph has all the relevant data and complete information but not necesarily in relation to the entire article.
 
 ### Perceptibility - 2
-The perceptibility is extremely bad even if the  visual doesn't use any illogical comparisions and is overall apprpriate. The lack of spacing between the grouped bar graphs for each state makes it extremely difficult to seperate the appropriate budget for each state. Since also the article is talking about chnage over time, the reader has to make % change calculations in their head while switching between tabs. 
+The perceptibility is extremely bad even if the  visual doesn't use any illogical comparisions. The lack of spacing between the grouped bar graphs for each state makes it extremely difficult to seperate the appropriate budget estimates for each state. Since also the article is talking about chnage over time, the reader has to make % change calculations in their head while switching between tabs. 
 
-### Truthfulness - 
+### Truthfulness - 10
+There is no misrepresentation of data
 
 ### Intuitiveness - 8
-The graph used is a bar, which a lot of people are familiar with. hence making it easy to understand. However, switching between the tabs to glean full information may be a new functionality that someone is not used to.
+The graph used is a bar, which a lot of people are familiar with, hence making it easy to understand. However, switching between the tabs to glean full information may be a new functionality that someone is not used to and therefore not immediately intuitive. 
 
-### Aesthetics - 2
+### Aesthetics - 3
+The aesthetics are not terrible at first sight, but honestly not helping in any way with comprehension. 
 
 ### Engagement - 5
-
+The visual is confusing, so its not really distracting from the data nor are the audience being drawn to it. Its mostly confusing. 
 
 # Step 3: Sketch out a solution
 
