@@ -60,31 +60,44 @@ Seeing trends in the previous graph was difficulty. In fact having all three val
 #### Sketch 3
 <div class="flourish-embed flourish-slope" data-src="visualisation/15079829"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I felt a clear take-away or message was missing in the previous graphs and additional work was needed by reader to interpret. The article highlighted Assam and Tamil Nadu (two states in India) for reducing their budgets and spending overtime, which could be the main message. However, that assessment is not entirely correct as only Tamil Nadu truly reduced both its actual spending in 20-21 and also budget estimates for 21-22 comapred to 20-21. Hence I generated the above visual
+I felt a clear take-away or message was missing in the previous graphs and additional work was needed by reader to interpret. The article highlighted Assam and Tamil Nadu (two states in India) for reducing their budgets and spending overtime, which could be the main message. However, that assessment is not entirely correct as only Tamil Nadu truly reduced both its actual spending in 20-21 and also budget estimates for 21-22 comapred to 20-21. Hence I generated the above visual.
 
 # Step 4: Test the solution
 
 I test all three sketches by speaking with 3 individuals, in their late and mid 20s. I use the questions highlighted in instructions with slight modifications:
-1. sskds
+1. Can you tell me what you think this is?
+2. What is the main take-away or message?
+3. Anything that stands out to you?
+4. Anything that is confusing?
+5. Who is the audience?
+6. What would you change?
 
-Sketch 1 feedback:
+### Sketch 1 feedback:
 While it was clear from the title that the graph related to education govt budget and spending, additional explanation was required to understand the meaning of Revised Estimates (RE) and Budget Estimates (BE) metrics.
 
 It was also felt that title doesn't corraborate with the graph because the data didn't seem to indicate there was such a big fall in education budget or spending. 
 
-Looking at three different, not so obvious % change metrics was confusing. Kerala stood out because of big magnitude graphs. 
+Looking at three different, not so obvious % change metrics was confusing. Kerala stood out because of big graphs. 
 
-The audience was considered to be government 
+Majority thought that the government or interest groups were the main audience. General Indian population was also mentioned to be the audience - for general awareness. 
 
-If there was an
+Some important and relevant changes suggested - split up the graphs and highlight some states.
 
-Sketch 2 feedback:
+### Sketch 2 feedback:
 It was much quickly comprehended - could be because the important data labels were already explained. However, the major pro was how quickly trends were identified both within each tab and also overall. The overall message was understood to mean - almost all states were increased budget in 21-22 based on previous year spending.
 
 There was a consensus that this graph was better than the previous in terms of ease of comprehension.
 
+Audience was considered to be the same and no major changes were recommended. 
+
+### Sketch 3 feedback:
+Everyone thought this was the clearest graph with one big takeway - the flat line for Tamil Nadu. The slight marginal decrease was barely noticable and not considered super important. 
+
+The other background values 
+
+
 ### Refocusing on the main takeaway
-From the feedbck and 
+From the feedbck and upon reading the aritcle more closely
 
 As you read the article more cloesly, you notice that the 
 
