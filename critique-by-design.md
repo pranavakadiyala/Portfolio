@@ -125,5 +125,9 @@ This is represented by two different graphs, making it annoying anf frustrating 
 <div class="flourish-embed flourish-slope" data-src="visualisation/15082146"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-Final thoughts: Overall, having closely looked at the data and generated various visuals from new perspectives, the claim of the article is not fully substantiated by the data and is a bit exaggerated. We are only looking at a 1 year change - so we don't if education reduction is exactly consistent. The reduced actual expenditure could be a result of COVID-19 setbacks. Even the % reduction based on total budget is also minute for a lot of states. 
+Final thoughts: Overall, having closely looked at the data and generated various visuals from new perspectives, the claim of the article is not fully substantiated by the data and is a bit exaggerated. We are only looking at a 1 year change - so we don't if education funding reduction is exactly consistent. The reduced actual expenditure could be a result of COVID-19 setbacks. Even the % reduction based on total budget seems small for a lot of states. Hence, if I were to write this entire article again, I would:
+- first get more distorical data, going back atleast a decade to see if there has been a continued declines in BE and RE
+- second, see if other departments have also seen a setup in RE in 20-21 as a result of the pandemic (apart from healthcare) or whether the effect was uniquely on education funding.
+- third, get more data to benchmark these % reductions out of total budget. As absolute budget values are big, small changes CAN have big impacts but as a reader it is not immediately clear what these impacts are. 
+
 
