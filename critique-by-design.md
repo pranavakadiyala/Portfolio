@@ -12,7 +12,23 @@ I am critiquing this design above. It is from a [article](https://www.indiaspend
 
 I follow the critiquing structure presenting by Stephen Few. I use the 0-10 scale to score the above visual across the informative and emotive parameters presenting by Mr Few.
 
-### Usefullness - 
+### Usefullness - 10
+The graph includes useful information in relation to the article 
+
+### Completeness - 8
+The gra
+
+### Perceptibility - 2
+The perceptibility is extremely bad even if the  visual doesn't use any illogical comparisions and is overall apprpriate. The lack of spacing between the grouped bar graphs for each state makes it extremely difficult to seperate the appropriate budget for each state. Since also the article is talking about chnage over time, the reader has to make % change calculations in their head while switching between tabs. 
+
+### Truthfulness - 
+
+### Intuitiveness - 8
+The graph used is a bar, which a lot of people are familiar with. hence making it easy to understand. However, switching between the tabs to glean full information may be a new functionality that someone is not used to.
+
+### Aesthetics - 2
+
+### Engagement - 5
 
 
 # Step 3: Sketch out a solution
