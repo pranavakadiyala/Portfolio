@@ -79,12 +79,12 @@ It was also felt that title doesn't corraborate with the graph because the data 
 
 Looking at three different, not so obvious % change metrics was confusing. Kerala stood out because of big graphs. 
 
-Majority thought that the government or interest groups were the main audience. General Indian population was also mentioned to be the audience - for general awareness. 
+Majority thought that the government or education policy interest groups were the main audience. General Indian population was also mentioned to be the audience - for general awareness. 
 
 Some important and relevant changes suggested - split up the graphs and highlight some states.
 
 ### Sketch 2 feedback:
-It was much quickly comprehended - could be because the important data labels were already explained. However, the major pro was how quickly trends were identified both within each tab and also overall. The overall message was understood to mean - almost all states were increased budget in 21-22 based on previous year spending.
+It was much quickly comprehended - could be because the important data labels were already explained. However, the major pro was how quickly trends were identified both within each tab and also overall. The overall message was understood to mean - almost all states were increased budget in 21-22 based on previous year spending - except Assam and TN. Assam also stands out in the first tab visual as the only state spending more than budgeted. 
 
 There was a consensus that this graph was better than the previous in terms of ease of comprehension.
 
@@ -93,13 +93,23 @@ Audience was considered to be the same and no major changes were recommended.
 ### Sketch 3 feedback:
 Everyone thought this was the clearest graph with one big takeway - the flat line for Tamil Nadu. The slight marginal decrease was barely noticable and not considered super important. 
 
-The other background values 
+The other background values even though fade into the background - also indicate not so bad budget allocation in 21-22 for majority states. 
 
+A change suggested by one individual - move the gridlines closer to make the slope more titled for Tamil Nadu.
+
+One reviewer browsed over other states and saw Assam was the only one who increased actual spending in 20-21 (again probably following from the learnings made in sketch 2). 
+
+One important feedback was that this graph only highlighted Tamil Nadu - which did not even seem that interesting - and sort of disgregarded more informative trends in other states, which I completely agree with. 
 
 ### Refocusing on the main takeaway
-From the feedbck and upon reading the aritcle more closely
+From the feedback and upon reading the aritcle more closely, its important to also show trends education budget as a % of overall budget. With just the above data, it would appear that majority of the state governments are interested in increasing education budgets. However, its more nuanced becasue education is actually now a lower share of overall budget - showing 
 
-As you read the article more cloesly, you notice that the 
+This is represented by two different graphs, making it annoying anf frustrating to cross reference. 
+
+<script id="infogram_0_a70492dd-7341-48c2-9358-bea28fdf026c" title="Education Spending As Proportion Of State Budgets Fell In First Pandemic Year" src="https://e.infogram.com/js/dist/embed.js?M9K" type="text/javascript"></script>
+
+<script id="infogram_0_b83877a3-267e-4e5b-b855-832ab18b8d81" title="Education Budget As A Proportion Of Total State Budget" src="https://e.infogram.com/js/dist/embed.js?SLb" type="text/javascript"></script>
+
 
 
 # Step 5: Final Solution
