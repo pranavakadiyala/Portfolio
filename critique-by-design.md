@@ -33,6 +33,25 @@ The graph used is a bar, which a lot of people are familiar with. hence making i
 
 # Step 3: Sketch out a solution
 
+#### Sketch 1
 <div class="flourish-embed flourish-chart" data-src="visualisation/15078966"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-In this visualization, I tried to 
+In this visualization, I tried to
+Better - change in terms of percentage, space between graphs
+But same issue about whats the approppriate change
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/15080132"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-slope" data-src="visualisation/15079829"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
+
+# Step 4:
+
+#### Feedback
+
+
+Sketch 
+
+
