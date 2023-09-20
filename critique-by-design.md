@@ -4,9 +4,7 @@
 
 # Step 1: Choosing a visualization to critique
 
-<div class="infogram-embed" data-id="c596945a-abfc-4716-b74c-3fb79b0ab299" data-type="interactive" data-title="State Education Budgets 2020-21 &amp;amp; 2021-22"></div><script>!function(e,n,i,s){var d="InfogramEmbeds";var o=e.getElementsByTagName(n)[0];if(window[d]&&window[d].initialized)window[d].process&&window[d].process();else if(!e.getElementById(i)){var r=e.createElement(n);r.async=1,r.id=i,r.src=s,o.parentNode.insertBefore(r,o)}}(document,"script","infogram-async","https://infogram.com/js/dist/embed-loader-min.js");</script>
-
-<div class="infogram-embed" data-id="c596945a-abfc-4716-b74c-3fb79b0ab299" data-type="interactive" data-title="State Education Budgets 2020-21 &amp; 2021-22" style="max-width: 600px;"></div>
+<div class="infogram-embed" data-id="c596945a-abfc-4716-b74c-3fb79b0ab299" data-type="interactive" data-title="State Education Budgets 2020-21 &amp; 2021-22" style="max-width: 800px;"></div>
 <script>
   !function(e,n,i,s){var d="InfogramEmbeds";var o=e.getElementsByTagName(n)[0];if(window[d]&&window[d].initialized)window[d].process&&window[d].process();else if(!e.getElementById(i)){var r=e.createElement(n);r.async=1,r.id=i,r.src=s,o.parentNode.insertBefore(r,o)}}(document,"script","infogram-async","https://infogram.com/js/dist/embed-loader-min.js");
 </script>
@@ -113,8 +111,9 @@ This is represented by two different graphs, making it annoying anf frustrating 
 
 <script id="infogram_0_a70492dd-7341-48c2-9358-bea28fdf026c" title="Education Spending As Proportion Of State Budgets Fell In First Pandemic Year" src="https://e.infogram.com/js/dist/embed.js?M9K" type="text/javascript"></script>
 
+<script id="infogram_0_a70492dd-7341-48c2-9358-bea28fdf026c" title="Education Spending As Proportion Of State Budgets Fell In First Pandemic Year" src="https://e.infogram.com/js/dist/embed.js?M9K" type="text/javascript" style="width: 800px;"></script>
 
-<script id="infogram_0_b83877a3-267e-4e5b-b855-832ab18b8d81" title="Education Budget As A Proportion Of Total State Budget" src="https://e.infogram.com/js/dist/embed.js?SLb" type="text/javascript"></script>
+<script id="infogram_0_b83877a3-267e-4e5b-b855-832ab18b8d81" title="Education Budget As A Proportion Of Total State Budget" src="https://e.infogram.com/js/dist/embed.js?SLb" type="text/javascript" style="width: 800px;"></script>
 
 
 # Step 5: Final Solution
