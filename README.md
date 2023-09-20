@@ -20,7 +20,7 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 Redirecting to a new page called `visualizing-government-debt.md`.  
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Re-design](critique-by-design)
 Redirecting to a new page called `critique-by-design.md`.  
 
 ## Final project
