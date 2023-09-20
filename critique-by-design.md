@@ -6,7 +6,7 @@
 
 <div class="infogram-embed" data-id="c596945a-abfc-4716-b74c-3fb79b0ab299" data-type="interactive" data-title="State Education Budgets 2020-21 &amp;amp; 2021-22"></div><script>!function(e,n,i,s){var d="InfogramEmbeds";var o=e.getElementsByTagName(n)[0];if(window[d]&&window[d].initialized)window[d].process&&window[d].process();else if(!e.getElementById(i)){var r=e.createElement(n);r.async=1,r.id=i,r.src=s,o.parentNode.insertBefore(r,o)}}(document,"script","infogram-async","https://infogram.com/js/dist/embed-loader-min.js");</script>
 
-<div class="infogram-embed" data-id="c596945a-abfc-4716-b74c-3fb79b0ab299" data-type="interactive" data-title="State Education Budgets 2020-21 &amp; 2021-22" style="max-width: 300px;"></div>
+<div class="infogram-embed" data-id="c596945a-abfc-4716-b74c-3fb79b0ab299" data-type="interactive" data-title="State Education Budgets 2020-21 &amp; 2021-22" style="max-width: 600px;"></div>
 <script>
   !function(e,n,i,s){var d="InfogramEmbeds";var o=e.getElementsByTagName(n)[0];if(window[d]&&window[d].initialized)window[d].process&&window[d].process();else if(!e.getElementById(i)){var r=e.createElement(n);r.async=1,r.id=i,r.src=s,o.parentNode.insertBefore(r,o)}}(document,"script","infogram-async","https://infogram.com/js/dist/embed-loader-min.js");
 </script>
