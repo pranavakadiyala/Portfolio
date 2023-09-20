@@ -113,6 +113,9 @@ This is represented by two different graphs, making it annoying anf frustrating 
 <script id="infogram_0_a70492dd-7341-48c2-9358-bea28fdf026c" title="Education Spending As Proportion Of State Budgets Fell In First Pandemic Year" src="https://e.infogram.com/js/dist/embed.js?M9K" type="text/javascript" style="width: 800px;"></script>
 
 
+<iframe title="Education Spending As Proportion Of State Budgets Fell In First Pandemic Year" src="https://e.infogram.com/a70492dd-7341-48c2-9358-bea28fdf026c" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 <script id="infogram_0_b83877a3-267e-4e5b-b855-832ab18b8d81" title="Education Budget As A Proportion Of Total State Budget" src="https://e.infogram.com/js/dist/embed.js?SLb" type="text/javascript" style="width: 800px;"></script>
 
 
