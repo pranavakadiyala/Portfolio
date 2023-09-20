@@ -109,8 +109,6 @@ From the feedback and upon reading the aritcle more closely, its important to al
 
 This is represented by two different graphs, making it annoying anf frustrating to cross reference. 
 
-<script id="infogram_0_a70492dd-7341-48c2-9358-bea28fdf026c" title="Education Spending As Proportion Of State Budgets Fell In First Pandemic Year" src="https://e.infogram.com/js/dist/embed.js?M9K" type="text/javascript"></script>
-
 
 <script id="infogram_0_a70492dd-7341-48c2-9358-bea28fdf026c" title="Education Spending As Proportion Of State Budgets Fell In First Pandemic Year" src="https://e.infogram.com/js/dist/embed.js?M9K" type="text/javascript" style="width: 800px;"></script>
 
