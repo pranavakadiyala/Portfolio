@@ -20,17 +20,13 @@ Text here...
 
 # The data
 
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
 I will rely on a  various data sources from the National Centre for Education Statistics (NCES) part of the Department of Education. NCES publishes data on education within the United States. I will primarily use the following three surveys from the NCES:
 * School pulse data
 * School pre-assessment data
 * School monthly data in spring 2021
 
-
 What are the major features? What is the timeline? What is the unit of analysis?
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
