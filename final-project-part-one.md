@@ -32,14 +32,17 @@ c) Policy makers: As a policy maker I want to see the impact of COVID-19 on stud
 The following sketches follow the progression of the various story elements mentioned above.
 
 Change in learning/instructional methods.
+
 <img src="remote_learning.jpeg" width="400"/>
 
 
 Impact on learning outcomes over time.
+
 <img src="learning_outcomes.jpeg" width="400"/>
 
 
 Impact on lmental health.
+
 <img src="mental_health.jpeg" width="400"/>
 
 
