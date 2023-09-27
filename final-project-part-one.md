@@ -25,12 +25,13 @@ Various audience: a) Parents and Students: As a parent/student I want to qauntif
 b) Government school officials and teachers. As a school official or teacher I want to see the impact of COVID-19 on students' learning and mental health outcomes so that I can take actions to improve mode of instructions, indtroduce new activities and find avenues for more funcing. I can do this by adding new learning programs, introducing mindfulness teaching, crowdfunding from general public or advocating for more funding for new resources.
 c) Policy makers: As a policy maker I want to see the impact of COVID-19 on students' learning and mental health outcomes so that I can identify areas where students are lacking and judge requests for more funding. I can do this by increasing necessary fuding or mandating relevant improvements in instructional methods. 
 
-
-
+<img src="story_arc.jpeg" width="400"/>
 
 # Initial sketches
 
-Text here...
+The following sketches follow the progression of the various story elements mentioned above.
+
+
 
 # The data
 
