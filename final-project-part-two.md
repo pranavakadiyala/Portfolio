@@ -1,16 +1,23 @@
 | [home page](https://pranavakadiyala.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+For this project, I aim to emphasize the significant learning deficit experienced by students in the US even as they were continuing to learn via remote education. Measuring and analyzing this learning loss and exploring strategies for improvement will help identify ways to update the existing approach for more effective outcomes.
+
+As I was working on the project, I generated a new story arc that update on last week's submission. It has been updated keeping in mind the comments left by the instructor and data availability with the aim to develop a more targetted narrative and to develop a clear call to action. 
+
+The story arc 
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+As mentioned in [part 1](final-project-part-one), there are three main audience for this story, in addition to the general audience who are regular news consumers and would be interested in knowing COVD-19's impact on education. 
+
+Target audience:
+* Parents/current students
+* Teachers and government school officials
+* Policy makers
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -52,10 +59,5 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
