@@ -6,7 +6,7 @@ For this project, I aim to emphasize the significant learning deficit experience
 
 As I was working on the project, I generated a new story arc that update on last week's submission. It has been updated keeping in mind the comments left by the instructor and data availability with the aim to develop a more targetted narrative and to develop a clear call to action. 
 
-The story arc 
+The story arc ...
 
 # User research 
 
