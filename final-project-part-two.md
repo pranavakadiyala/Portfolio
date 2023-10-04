@@ -6,7 +6,8 @@ For this project, I aim to emphasize the significant learning deficit experience
 
 As I was working on the project, I generated a new story arc that update on last week's submission. It has been updated keeping in mind the comments left by the instructor and data availability with the aim to develop a more targetted narrative and to develop a clear call to action. 
 
-The story arc ...
+The story arc:
+
 
 # User research 
 
@@ -18,6 +19,10 @@ Target audience:
 * Parents/current students
 * Teachers and government school officials
 * Policy makers
+
+However, I was unable to contact individuals with the above identifiable characteristics. Instead I spoke with 3 individuals in their mid and late 20s who completed their elementary, secondary and high school education in the US. Both of them also completed their undergrad during COVID-19 and hence actively learnt using online methods. One of them also has a sibling who is currently in high school and was just beggining high school in 2020. Further, both of them worked with state and local governments on policy implementation questions. 
+
+Hence, I feel like the two stakeholders - parents/current studetns 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
