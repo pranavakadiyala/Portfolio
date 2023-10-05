@@ -12,9 +12,6 @@ The story arc:
 
 Link to shorthand: https://preview.shorthand.com/jP2Zt9g1J7XmLXvH
 
-Graphs used
-
-
 # User research 
 
 ## Target audience
@@ -34,7 +31,7 @@ Hence, I feel like the two stakeholders - parents/current studetns and policy ma
 
 | Goal | Questions to Ask |
 |------|------------------|
-| The story follows a narrative   | Do you think the storyboard follos a story?              |
+| The story follows a narrative   | Do you think the storyboard follows a story?              |
 | The graphs/visualizations are relevant    | Do you think the choice of charts and variables represented is relevant and appropriate?               |
 | The message is clear    | What is the main take-away or message?                 |
 | The story is relevant for the audeience  | Who do you think is audience of this story? |
@@ -46,14 +43,11 @@ Script/How the interviews were conducted:
 When conducting the interviews, I give very little background. I just start showing them the preview for the shorthand. If there are any questions or queries about anything - like what is the graph showing, etc, I note them down against the question or goal its connected to and answer them. After they are done scrolling, I ask them questions in the order written above. 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (late 20s, worked with local government) | Interview 2 (mid 20s, worked with government, attending college during covid, worked with government, has a sibling currently going to high school) | Interview 3 (early 20s, attending college during covid, interested in education policy |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
+| Do you think the storyboard follows a story? | Yes, overall pretty good, but when the charts about math come into the picture, its abrupt             | Yes, follows a chornological order and discussion of cause and effect           | Yes, there seems to be a consistent theme too which is nice            |
+| Do you think the choice of charts and variables represented is relevant and appropriate?                      | Add subjects, right now only talking about math. The closure duration chart, its too big not able to see X-axis and condense to a single bar.                              | Fix map animation, make the closure duration small, while scrolling you can't see the axis for a while           | Add more subjects, need additional variables            |
 |                         |                                |             |             |
 
 
