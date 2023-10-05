@@ -42,14 +42,14 @@ Hence, I feel like the two stakeholders - parents/current studetns and policy ma
 | To understand if anything is standing out - to check if what needs to be emphasized is being emphasized | Anything that stands out to you? Or is confusing? |
 
 Script/How the interviews were conducted:
-When conducting the interviews, I give very little background. I just start showing them the preview for the shorthand
+When conducting the interviews, I give very little background. I just start showing them the preview for the shorthand. If there are any questions or queries about anything - like what is the graph showing, etc, I note them down against the question or goal its connected to and answer them. After they are done scrolling and think they understand the 
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (late 20s, worked with local government) | Interview 2 (mid 20s, worked with government, attending college during covid, worked with government, has a sibling currently going to high school) | Interview 3 (early 20s, attending college during covid, interested in education policy |
 |-------------------------|--------------------------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |
 |                         |                                |             |             |
