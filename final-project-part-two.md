@@ -8,9 +8,10 @@ As I was working on the project, I generated a new story arc that update on last
 
 The story arc:
 
-Link to shorthand:
+Link to shorthand: https://preview.shorthand.com/jP2Zt9g1J7XmLXvH
 
 Graphs used
+
 
 # User research 
 
