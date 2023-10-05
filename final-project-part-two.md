@@ -8,6 +8,9 @@ As I was working on the project, I generated a new story arc that update on last
 
 The story arc:
 
+Link to shorthand:
+
+Graphs used
 
 # User research 
 
@@ -28,12 +31,15 @@ Hence, I feel like the two stakeholders - parents/current studetns and policy ma
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| The story follows a narrative   | Do you think the storyboard follos a story?              |
+| The graphs/visualizations are relevant    | Do you think the choice of charts and variables represented is relevant and appropriate?               |
+| The message is clear    | What is the main take-away or message?                 |
+| The story is relevant for the audeience  | Who do you think is audience of this story? |
+| Direct feedback | What would you change? |
+| To understand if anything is standing out - to check if what needs to be emphasized is being emphasized | Anything that stands out to you? Or is confusing? |
 
-
-Text here!
+Script/How the interviews were conducted:
+When conducting the interviews, I give very little background. I just start showing them the preview for the shorthand
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
