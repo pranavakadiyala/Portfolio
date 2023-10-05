@@ -23,7 +23,7 @@ Target audience:
 * Teachers and government school officials
 * Policy makers
 
-However, I was unable to contact individuals with the above identifiable characteristics. Instead, I spoke with 3 individuals in their mid and late 20s who completed their elementary, secondary and high school education in the US. Both of them also completed their undergrad during COVID-19 and hence actively learnt using online methods. One of them also has a sibling who is currently in high school and was just beginning high school in 2020. Further, two of them worked with state and local governments on policy implementation questions. 
+However, I was unable to contact individuals with the above identifiable characteristics. Instead, I spoke with 3 individuals in their mid and late 20s who completed their elementary, secondary and high school education in the US. Two of them also completed their undergrad during COVID-19 and hence actively learnt using online methods. One of them also has a sibling who is currently in high school and was just beginning high school in 2020. Further, two of them worked with state and local governments on policy implementation questions. 
 
 Hence, I feel like the two stakeholders - parents/current studetns and policy makers have been decently represented by the interviewees. However, as outlined in [part 1](final-project-part-one), since teachers have very similar goals and interested, I belive that overall the interviewers' feedback is pretty comprehensive and quite representative. 
 
