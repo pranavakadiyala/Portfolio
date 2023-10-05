@@ -4,7 +4,7 @@
 
 For this project, I aim to emphasize the significant learning deficit experienced by students in the US even as they were continuing to learn via remote education. Measuring and analyzing this learning loss and exploring strategies for improvement will help identify ways to update the existing approach for more effective outcomes.
 
-As I was working on the project, I generated a new story arc that update on last week's submission. It has been updated keeping in mind the comments left by the instructor and data availability with the aim to develop a more targetted narrative and to develop a clear call to action. 
+As I was working on the project, I generated a new story arc that updates on last week's submission. It has been updated keeping in mind the comments left by the instructor and data availability with the aim to develop a more targetted narrative and to develop a clear call to action. 
 
 The story arc: 
 
