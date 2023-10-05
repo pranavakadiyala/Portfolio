@@ -35,8 +35,9 @@ Hence, I feel like the two stakeholders - parents/current studetns and policy ma
 | The graphs/visualizations are relevant    | Do you think the choice of charts and variables represented is relevant and appropriate?               |
 | The message is clear    | What is the main take-away or message?                 |
 | The story is relevant for the audeience  | Who do you think is audience of this story? |
-| To understand if anything is standing out - to check if what needs to be emphasized is being emphasized | Anything that stands out to you? Or is confusing? |
 | Direct feedback | What would you change? |
+| To understand if anything is standing out - to check if what needs to be emphasized is being emphasized | Anything that stands out to you? Or is confusing? |
+
 
 
 Script/How the interviews were conducted:
@@ -49,22 +50,19 @@ When conducting the interviews, I give very little background. I just start show
 | Do you think the storyboard follows a story? | Yes, overall pretty good, but when the charts about math come into the picture, its abrupt and too specific. But the initial set-up is nice            | Yes, follows a chornological order and discussion of cause and effect           | Yes, there seems to be a consistent theme too which is nice            |
 | Do you think the choice of charts and variables represented is relevant and appropriate?                      | Add subjects, right now only talking about math. The closure duration chart, its too big not able to see X-axis and condense to a single bar.                              | Fix map animation, make the closure duration small, while scrolling you can't see the axis for a while           | Add more subjects - need additional variables to substantiate the point about learning loss. Make comparisions more obvious - look at more historical data           |
 | What is the main take-away or message?                        | Right now the main message seems to be just about learning loss in math - change the title to reflect losses in math only | The main message about COIVD-19 related learning loss is clear.            | The main message about COVID-19 impacting learning is clear but needs substantiating - is it only math? What about other subjects?            |
-| Who do you think is audience of this story? | The main audience seems to be the general public, like for a New York Times story - interactive and fun visualization for reuglar news consumers. While could be specific for say teachers - then the data and content should reflect that - what was teachers effort like before and after, etc. Because they may not be totally on board with some of the suggestions | 
+| Who do you think is audience of this story? | The main audience seems to be the general public, like for a New York Times story - interactive and fun visualization for reuglar news consumers. While could be specific for say teachers - then the data and content should reflect that - what was teachers effort like before and after, etc. Because they may not be totally on board with some of the suggestions | School administrators, parents - more active role and can implement changed in addition to general public | Mostly general public, need to be more specific if its referring to special groups like teachers, policy makers etc.
+| What would you change? | The school closure duration graph - make it into a single bar with different colors, too big, cant see X axis immediately. Add more subjects  | Fix animation for the map, the X - axis on school closure duration is not immediately seen. The two learning outcomes graph - not clear that its two different and its changing so would fix that | For the map, dates should be bigger, not clear and small. The two learning outcomes graph - the change is super subtle. Make it more highlighted.
+| Anything that stands out to you? Or is confusing? | The text is changing fonts, a bit distracting. The steps to recovery just appears - not sure what I can do. | Immediately - the red bar chart. But overall flows fine only | Nothing too confsuing, overall messaging fine, I would just add more to substantiate |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Adding more subjects and looking at more historical data | Describe what, if any changes you anticipate making to address the observation. |
-| The school closure duration graph needs updating                                         |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Adding more subjects and looking at more historical data | I will look at more data to add learning outcome effects for other subjects too. Will also split these graphs more explicitly so that they don't merge into each other like it happened with the math graphs. I will also add aditional section between learning outcome charts and X days lost so that its not so abrupt. Right now not sure what it could but more like a leading 'slide' maybe. |
+| The school closure duration graph needs updating along with the map |  The two tableau graphs need real fixing. Condense the red bar graph, reduce the size - put the X axis on top rather than the bottom and actually make the map work|
+| The audeince member | I am now focusing on making this graph a more general audience graph - simply because m  |
+| Consistency with theming and background            |                                                                                 |
+| Steps for improvement | Substantiate these points by adding more data so that the call to action for reaching out to the 
 
-> ...include any final thoughts you have here. 
 
-Text here!
