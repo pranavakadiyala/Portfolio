@@ -34,7 +34,7 @@ Hence, I feel like the two stakeholders - parents/current studetns and policy ma
 | The story follows a narrative   | Do you think the storyboard follows a story?              |
 | The graphs/visualizations are relevant    | Do you think the choice of charts and variables represented is relevant and appropriate?               |
 | The message is clear    | What is the main take-away or message?                 |
-| The story is relevant for the audeience  | Who do you think is audience of this story? |
+| The story is relevant for the audeience  | Who do you think is the audience of this story? |
 | Direct feedback | What would you change? |
 | To understand if anything is standing out - to check if what needs to be emphasized is being emphasized | Anything that stands out to you? Or is confusing? |
 
