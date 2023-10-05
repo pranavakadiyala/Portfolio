@@ -44,11 +44,12 @@ When conducting the interviews, I give very little background. I just start show
 
 ## Interview findings
 
-| Questions               | Interview 1 (late 20s, worked with local government) | Interview 2 (mid 20s, worked with government, attending college during covid, worked with government, has a sibling currently going to high school) | Interview 3 (early 20s, attending college during covid, interested in education policy |
+| Questions               | Interview 2 (mid 20s, worked with government, attending college during covid, worked with government, has a sibling currently going to high school) | Interview 1 (late 20s, worked with local government)  | Interview 3 (early 20s, attending college during covid, interested in education policy) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Do you think the storyboard follows a story? | Yes, overall pretty good, but when the charts about math come into the picture, its abrupt             | Yes, follows a chornological order and discussion of cause and effect           | Yes, there seems to be a consistent theme too which is nice            |
-| Do you think the choice of charts and variables represented is relevant and appropriate?                      | Add subjects, right now only talking about math. The closure duration chart, its too big not able to see X-axis and condense to a single bar.                              | Fix map animation, make the closure duration small, while scrolling you can't see the axis for a while           | Add more subjects, need additional variables            |
-|                         |                                |             |             |
+| Do you think the storyboard follows a story? | Yes, overall pretty good, but when the charts about math come into the picture, its abrupt and too specific. But the initial set-up is nice            | Yes, follows a chornological order and discussion of cause and effect           | Yes, there seems to be a consistent theme too which is nice            |
+| Do you think the choice of charts and variables represented is relevant and appropriate?                      | Add subjects, right now only talking about math. The closure duration chart, its too big not able to see X-axis and condense to a single bar.                              | Fix map animation, make the closure duration small, while scrolling you can't see the axis for a while           | Add more subjects - need additional variables to substantiate the point about learning loss. Make comparisions more obvious - look at more historical data           |
+| What is the main take-away or message?                        | Right now the main message seems to be just about learning loss in math - change the title to reflect losses in math only | The main message about COIVD-19 related learning loss is clear.            | The main message about COVID-19 impacting learning is clear but needs substantiating - is it only math? What about other subjects?            |
+| Who do you think is audience of this story? | The main audience seems to be the general public, like for a New York Times story - interactive and fun visualization for reuglar news consumers. While could be specific for say teachers - then the data and content should reflect that - what was teachers effort like before and after, etc. Because they may not be totally on board with some of the suggestions | 
 
 
 # Identified changes for Part III
@@ -58,8 +59,8 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
+| Adding more subjects and looking at more historical data | Describe what, if any changes you anticipate making to address the observation. |
+| The school closure duration graph needs updating                                         |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
