@@ -38,11 +38,12 @@ Hence, I feel like the two stakeholders - parents/current studetns and policy ma
 | The graphs/visualizations are relevant    | Do you think the choice of charts and variables represented is relevant and appropriate?               |
 | The message is clear    | What is the main take-away or message?                 |
 | The story is relevant for the audeience  | Who do you think is audience of this story? |
-| Direct feedback | What would you change? |
 | To understand if anything is standing out - to check if what needs to be emphasized is being emphasized | Anything that stands out to you? Or is confusing? |
+| Direct feedback | What would you change? |
+
 
 Script/How the interviews were conducted:
-When conducting the interviews, I give very little background. I just start showing them the preview for the shorthand. If there are any questions or queries about anything - like what is the graph showing, etc, I note them down against the question or goal its connected to and answer them. After they are done scrolling and think they understand the 
+When conducting the interviews, I give very little background. I just start showing them the preview for the shorthand. If there are any questions or queries about anything - like what is the graph showing, etc, I note them down against the question or goal its connected to and answer them. After they are done scrolling, I ask them questions in the order written above. 
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
