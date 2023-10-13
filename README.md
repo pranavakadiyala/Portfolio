@@ -41,4 +41,4 @@ Bachelor of Arts, Economics
 [Part III](final-project-part-three)
 
 
-| [home](https://pranavakadiyala.github.io/Portfolio/) | {GitHub repo](https://github.com/pranavakadiyala/Portfolio) |
+| [home](https://pranavakadiyala.github.io/Portfolio/) | [GitHub repo](https://github.com/pranavakadiyala/Portfolio) |
