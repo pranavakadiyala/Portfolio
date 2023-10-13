@@ -8,7 +8,7 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 ## Skills and Coursework
 - **Programming:** Python, SQL, R, STATA
 - **Frameworks:** Scikit-learn, Gurobi, Selenium, Seaborn
-- **Coursework:** Machine Learning, Exploratory Data Analysis, Database Management, Advanced Econometrics, Microeconomic Theory
+- **Coursework:** Machine Learning, Exploratory Data Analysis, Database Management, Advanced Econometrics, Microeconomic Theory, Decision Analytics
 
 ## Projects
 - [Visualizing Government Debt](visualizing-government-debt)
@@ -40,7 +40,7 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 
 - **World Bank Group, Consultant**
   * Jan 2021 - June 2022
-  * Executed network analysis using novel data on textbook last mile delivery to assess textbook leakage. Conducted market segmentation and mapped out the supply chain for relevant stakeholders to quantify preferences. Co-designed an A/B experiment to quantify consumer usage and participation metrics in a pilot sample to track new student enrollment using a tracking application.
+  * Conducted network analysis on textbook last mile delivery, market segmentation, and supply chain mapping. Co-designed an A/B experiment to quantify participation metrics in a pilot sample for using a tracking application.
 
 - **University of Pennsylvania Institute for the Advanced Study of India and Centre for Disease Dynamics, Economics & Policy, Quantitative Research Associate**
   * Sept 2020 - June 2022
