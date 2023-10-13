@@ -25,11 +25,18 @@ Bachelor of Arts, Economics
 
 # Experience
 
+### Digital Vaccine Project at Carnegie Mellon University, Data Analyst Intern
+June 2023-August 2023
 
+# Skills and Coursework
+
+Programming: Python, SQL, R, STATA
+Frameworks: Scikit-learn, Gurobi, Selenium, Seaborn
+Coursework: Machine Learning with Python, Programming and Exploratory Data Analysis with Python, Programing with R, Database Management, Advanced Econometrics, Statistics & Modeling, Advanced Microeconomic Theory
 
 ### [Resume](https://drive.google.com/file/d/18Tc-abEqUkGsSX2luWGncxFH-qgp21Xt/view?usp=sharing)
 
-# Project
+# Projects
 
 ## [Visualizing Government Debt](visualizing-government-debt)
 
@@ -43,4 +50,4 @@ Bachelor of Arts, Economics
 
 
 
-| [home](https://pranavakadiyala.github.io/Portfolio/) | [GitHub repo](https://github.com/pranavakadiyala/Portfolio) |
+| [Home](https://pranavakadiyala.github.io/Portfolio/) | [GitHub repo](https://github.com/pranavakadiyala/Portfolio) |
