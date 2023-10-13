@@ -28,9 +28,9 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
   * Jan 2021 - June 2022
   * Executed network analysis using novel data on textbook last mile delivery to assess textbook leakage. Conducted market segmentation and mapped out the supply chain for relevant stakeholders to quantify preferences. Co-designed an A/B experiment to quantify consumer usage and participation metrics in a pilot sample to track new student enrollment using a tracking application.
 
-### University of Pennsylvania Institute for the Advanced Study of India and Centre for Disease Dynamics, Economics & Policy, Quantitative Research Associate
-* Sept 2020 - June 2022
-* Evaluated short-term and mid-term causal impact of an A/B experiment through econometric analysis. Managed and supervised data collection activities in rural India. Drafted relevant reports and research manuscripts.
+- **University of Pennsylvania Institute for the Advanced Study of India and Centre for Disease Dynamics, Economics & Policy, Quantitative Research Associate**
+  * Sept 2020 - June 2022
+  * Evaluated short-term and mid-term causal impact of an A/B experiment through econometric analysis. Managed and supervised data collection activities in rural India. Drafted relevant reports and research manuscripts.
 
 ## Skills and Coursework
 - **Programming:** Python, SQL, R, STATA
@@ -48,6 +48,7 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
   - [Part III](final-project-part-three)
 
 
+---
 ---
 
 | [Home](https://pranavakadiyala.github.io/Portfolio/) | [GitHub repo](https://github.com/pranavakadiyala/Portfolio) |
