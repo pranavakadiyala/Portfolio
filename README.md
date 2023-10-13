@@ -1,11 +1,11 @@
 # Portfolio
 
-# About me
+## About me
 <img src="Pranava_Kadiyala_Photograph.jpeg" width="200"/>
 
 Hello! I'm a graduate student at CMU with a strong passion for leveraging Data Science for Social Good. I'm deeply motivated by the transformative power of data-driven insights in shaping effective policy. My enthusiasm lies in working with data, harnessing its potential, and crafting meaningful visualizations that drive informed policy actions.
 
-# Education
+## Education
 
 ### Heinz College, Carnegie Mellon University
 * 2022 - 2024 
@@ -41,11 +41,9 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 
 ### [Resume](https://drive.google.com/file/d/18Tc-abEqUkGsSX2luWGncxFH-qgp21Xt/view?usp=sharing)
 
-# Projects
-
-## [Visualizing Government Debt](visualizing-government-debt)
-
-## [Critique by Re-design](critique-by-design)
+## Projects
+- [Visualizing Government Debt](visualizing-government-debt)
+- [Critique by Re-design](critique-by-design)
 
 ## Final project
 
@@ -53,6 +51,6 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
 
-
+---
 
 | [Home](https://pranavakadiyala.github.io/Portfolio/) | [GitHub repo](https://github.com/pranavakadiyala/Portfolio) |
