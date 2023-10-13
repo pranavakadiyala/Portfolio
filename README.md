@@ -27,6 +27,7 @@ Bachelor of Arts, Economics
 
 
 
+### [Resume](https://drive.google.com/file/d/18Tc-abEqUkGsSX2luWGncxFH-qgp21Xt/view?usp=sharing)
 
 # Project
 
@@ -41,4 +42,6 @@ Bachelor of Arts, Economics
 [Part III](final-project-part-three)
 
 
-| [home](https://pranavakadiyala.github.io/Portfolio/) | [GitHub repo](https://github.com/pranavakadiyala/Portfolio) |
+
+
+                | [home](https://pranavakadiyala.github.io/Portfolio/) | [GitHub repo](https://github.com/pranavakadiyala/Portfolio) |
