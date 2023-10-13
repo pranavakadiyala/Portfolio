@@ -19,6 +19,19 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 * 2014 - 2017
 * Bachelor of Arts, Economics
 
+## Education
+- **Heinz College, Carnegie Mellon University**
+  * Master of Science, Public Policy & Management – Data Analytics
+  * 2022 - 2024
+
+- **Delhi School of Economics, University of Delhi**
+  * Master of Arts, Economics
+  * 2017 - 2019
+
+- **Lady Shri Ram College, University of Delhi**
+  * Bachelor of Arts, Economics
+  * 2014 - 2017
+
 
 # Experience
 
