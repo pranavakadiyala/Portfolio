@@ -23,14 +23,15 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 # Experience
 
 ### Digital Vaccine Project at Carnegie Mellon University, Data Analyst Intern
-June 2023 - August 2023
+* June 2023 - August 2023
+* Developed an economic assessment framework aligned with established epidemiological studies to quantify a quality-of-life gains and cost-benefit from implementing a gamified mobile application designed to promote healthier eating habits.
 
 ### World Bank Group, Consultant 
 * Jan 2021 - June 2022
 * Executed network analysis using novel data on textbook last mile delivery to assess textbook leakage. Conducted market segmentation and mapped out the supply chain for relevant stakeholders to quantify preferences. Co-designed an A/B experiment to quantify consumer usage and participation metrics in a pilot sample to track new student enrollment using a tracking application.
 
 ### University of Pennsylvania Institute for the Advanced Study of India and Centre for Disease Dynamics, Economics & Policy, Quantitative Research Associate
-* Sept 2020-June 2022
+* Sept 2020 - June 2022
 * Evaluated short-term and mid-term causal impact of an A/B experiment through econometric analysis. Managed and supervised data collection activities in rural India. Drafted relevant reports and research manuscripts.
 
 # Skills and Coursework
