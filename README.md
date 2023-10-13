@@ -5,6 +5,20 @@
 
 Hello! I'm a graduate student at CMU with a strong passion for leveraging Data Science for Social Good. I'm deeply motivated by the transformative power of data-driven insights in shaping effective policy. My enthusiasm lies in working with data, harnessing its potential, and crafting meaningful visualizations that drive informed policy actions.
 
+## Skills and Coursework
+- **Programming:** Python, SQL, R, STATA
+- **Frameworks:** Scikit-learn, Gurobi, Selenium, Seaborn
+- **Coursework:** Machine Learning, Exploratory Data Analysis, Database Management, Advanced Econometrics, Microeconomic Theory
+
+## Projects
+- [Visualizing Government Debt](visualizing-government-debt)
+- [Critique by Re-design](critique-by-design)
+- Final Project
+  - [Part I](final-project-part-one)
+  - [Part II](final-project-part-two)
+  - [Part III](final-project-part-three)
+
+
 ## Education
 - **Heinz College, Carnegie Mellon University**
   * Master of Science, Public Policy & Management – Data Analytics
@@ -32,20 +46,8 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
   * Sept 2020 - June 2022
   * Evaluated short-term and mid-term causal impact of an A/B experiment through econometric analysis. Managed and supervised data collection activities in rural India. Drafted relevant reports and research manuscripts.
 
-## Skills and Coursework
-- **Programming:** Python, SQL, R, STATA
-- **Frameworks:** Scikit-learn, Gurobi, Selenium, Seaborn
-- **Coursework:** Machine Learning, Exploratory Data Analysis, Database Management, Advanced Econometrics, Microeconomic Theory
 
 ### [View Resume](https://drive.google.com/file/d/18Tc-abEqUkGsSX2luWGncxFH-qgp21Xt/view?usp=sharing)
-
-## Projects
-- [Visualizing Government Debt](visualizing-government-debt)
-- [Critique by Re-design](critique-by-design)
-- Final Project
-  - [Part I](final-project-part-one)
-  - [Part II](final-project-part-two)
-  - [Part III](final-project-part-three)
 
 
 ---
