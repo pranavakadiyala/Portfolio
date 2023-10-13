@@ -27,12 +27,7 @@ June 2023 - August 2023
 
 ### World Bank Group, Consultant 
 * Jan 2021 - June 2022
-* • Executed network analysis using unique, novel data on textbook availability through primary real-time audits at three major
-nodes of the supply chain to assess textbook leakage. Led to leakage identification of 5% of annual education budget.
-• Conducted market segmentation and mapped out the supply chain for groups of teachers (557), high school students (2567), publishers (23) and government officers (12) to identify the motivators and individual needs of each segment with regards to
-the last mile delivery of textbooks.
-• Co-designed an A/B experiment to quantify consumer usage and participation metrics in a pilot sample of 557 users for a new
-student enrollment tracking application.
+* Executed network analysis using novel data on textbook last mile delivery to assess textbook leakage. Conducted market segmentation and mapped out the supply chain for relevant stakeholders to quantify preferences. Co-designed an A/B experiment to quantify consumer usage and participation metrics in a pilot sample to track new student enrollment using a tracking application.
 
 ### University of Pennsylvania Institute for the Advanced Study of India and Centre for Disease Dynamics, Economics & Policy, Quantitative Research Associate
 * Sept 2020-June 2022
