@@ -4,7 +4,7 @@
 
 # The final data story
 
-Link to the shorthand: https://carnegiemellon.shorthandstories.com/learning-loss/index.html
+[Link to the shorthand](https://carnegiemellon.shorthandstories.com/learning-loss/index.html)
 
 # Changes made since Part II
 
