@@ -15,8 +15,8 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 - [Critique by Re-design](critique-by-design)
 - Final Project
   - [Part I](https://github.com/pranavakadiyala/Portfolio/blob/main/final-project-part-one.md)
-  - [Part II](final-project-part-two)
-  - [Part III](final-project-part-three)
+  - [Part II](https://github.com/pranavakadiyala/Portfolio/blob/main/final-project-part-two.md)
+  - [Part III](https://github.com/pranavakadiyala/Portfolio/blob/main/final-project-part-three.md)
 
 
 ## Education
