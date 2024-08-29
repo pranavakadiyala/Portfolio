@@ -14,7 +14,7 @@ Hello! I'm a graduate student at CMU with a strong passion for leveraging Data S
 - [Visualizing Government Debt](visualizing-government-debt)
 - [Critique by Re-design](critique-by-design)
 - Final Project
-  - [Part I]([final-project-part-one](https://github.com/pranavakadiyala/Portfolio/blob/main/final-project-part-one.md))
+  - [Part I]([final-project-part-one](https://github.com/pranavakadiyala/Portfolio/blob/main/final-project-part-one.md)
   - [Part II](final-project-part-two)
   - [Part III](final-project-part-three)
 
